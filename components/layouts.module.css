@@ -1,0 +1,18 @@
+.navbar {
+    background: #203040 !important;
+   
+  }
+  .main{
+      min-height:100vh;
+  }
+  .footer{
+      text-align:center ;
+  }
+.headerText{
+    margin-top:-10px !important;
+}
+.toolBar{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
